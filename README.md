@@ -1,6 +1,6 @@
 # Landing page 🖥
 <p align="center">
-<img src=".assets/images/imc.png" alt="Landing page" title="Landing page">
+<img src="./assets/images/imc.png" alt="Landing page" title="Landing page">
 </p>
 
 ## 📖 Sobre   
@@ -16,7 +16,8 @@ O projeto dessa calculadora de imc, foi com estudos para eu me aperfeiçoar, e c
 
 ## 🖥️ Demonstração
 
-<img src="./assets/images/dekstop.png" alt="Landing page" title="Landing page">
+<img src="./assets/images/desktop.png" alt="Landing page" title="Landing page">
+<img src="./assets/images/mobile.png" alt="Landing page" title="Landing page">
 
 Você pode acessar o projeto clicando [aqui](https://jeanruf1.github.io/clipboard-landing-page-master/).
 
