@@ -19,7 +19,7 @@ O projeto dessa calculadora de imc, foi com estudos para eu me aperfeiçoar, e c
 <img src="./assets/images/desktop.png" alt="imc" title="imc">
 <img src="./assets/images/mobile.png" alt="imc" title="imc">
 
-Você pode acessar o projeto clicando [aqui](https://jeanruf1.github.io/clipboard-landing-page-master/).
+Você pode acessar o projeto clicando [aqui](https://jeanruf1.github.io/calculadoraimc/).
 
 ---
 
@@ -27,7 +27,7 @@ Você pode acessar o projeto clicando [aqui](https://jeanruf1.github.io/clipboar
 
 ```bash
 # Clone o repositório
-git clone https://jeanruf1.github.io/calculadoraimc//
+git clone https://jeanruf1.github.io/calculadoraimc/
 
 # Entre no diretório
 cd calculadoraimc
